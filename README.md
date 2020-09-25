@@ -1,3 +1,3 @@
-# FMNIST colab notebook
+# [FMNIST Colab notebook](https://github.com/stevedepp/FMNIST/blob/master/FMNIST_Depp.ipynb)
 
-https://github.com/stevedepp/FMNIST/blob/master/FMNIST_Depp.ipynb
+
