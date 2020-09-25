@@ -1,1 +1,1 @@
-# msds-462
+# FMNIST codelab notebook
