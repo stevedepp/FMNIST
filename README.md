@@ -1,1 +1,1 @@
-# FMNIST codelab notebook
+# FMNIST colab notebook
