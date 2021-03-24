@@ -80,7 +80,7 @@ Under the hood
 - [x] filters
 - [x] class activation heatmaps
 
-      'here on top i am getting hooked up to my google drive and in the middle i’m getting hooked up to kaggle and down at the bottom i’m using kaggle to download the data.' 
+    'here on top i am getting hooked up to my google drive and in the middle i’m getting hooked up to kaggle and down at the bottom i’m using kaggle to download the data.' 
 
 **Steps**    
 
@@ -91,6 +91,10 @@ Hooked up & Loaded up:
 <img width="732" alt="Access Google drive Kaggle" src="https://user-images.githubusercontent.com/38410965/112354314-f18be580-8ca2-11eb-9385-e6b6f6420514.png">
 
 <img width="766" alt="Load dataset" src="https://user-images.githubusercontent.com/38410965/112354284-e9cc4100-8ca2-11eb-818e-6c42deffba1b.png">
+
+
+    'a quick look at the data.  here in the middle i calculated the mean pixel values for the 10 labels. it shows that not all images are the same: sneaker images are lighter than the images of coats.  shirts and t-shirts are quite similar in their pixel values.  you can see that shirts have a mean pixel value of 85.01 and t-shirts have a mean pixel value of 82.77.   so, that’ll make sneakers and coats easier to distinguish and shirts and t-shirts more difficult to distinguish.  at the bottom i calculate the correlation between the image pixels.  some target images are less related than others. so for example the images of dresses are unrelated to the images of t-shirts, sandals, boots and sneakers.  so, this might make these images easier to classify for a fully connected model.  also the correlations between the train and the test sets are the same which leads me to expect good generalization between the train and the test sets.   so as for performance …'
+
 
 **Steps**
 
