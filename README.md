@@ -193,10 +193,13 @@ Convolutional 2
 
 #
 
-> here i take the gradient.  it’s the mean gradient to weight the activations.  and it shows the edges being formed in the activations here and here.  this edge is actually more distinct and related to this t-shirt, this feature of this t-shirt whereas this is not really a shirt feature.  so you can see why the t-shirt might be easier to identify.   finally at the bottom here i look at the layer filters, and it’s interesting.  it’s pretty.  but one of the big things i gather from this, aside from the fact that the first layer has you know horizontal and vertical lines and this has a little bit more complex features in the second convolutional layer, the thing i take away from this is that there’s a lot of noisy filters here.  this isn’t all the filters.  this is just a percentage of the filters, but this percentage of filters is quite noisy which means that we can probably get rid of some of these filters and still have the same level of performance.   
-
+> here i take the gradient.  it’s the mean gradient to weight the activations.  and it shows the edges being formed in the activations here and here.  this edge is actually more distinct and related to this t-shirt, this feature of this t-shirt whereas this is not really a shirt feature.  so you can see why the t-shirt might be easier to identify.   
 
 <img width="762" alt="T-shirt = 0" src="https://user-images.githubusercontent.com/38410965/112353378-12077000-8ca2-11eb-92cb-cafa7265d76e.png">
+
+#
+
+> finally at the bottom here i look at the layer filters, and it’s interesting.  it’s pretty.  but one of the big things i gather from this, aside from the fact that the first layer has you know horizontal and vertical lines and this has a little bit more complex features in the second convolutional layer, the thing i take away from this is that there’s a lot of noisy filters here.  this isn’t all the filters.  this is just a percentage of the filters, but this percentage of filters is quite noisy which means that we can probably get rid of some of these filters and still have the same level of performance.   
 
 <img width="934" alt="d Convolutional layer filters" src="https://user-images.githubusercontent.com/38410965/112353296-fdc37300-8ca1-11eb-8db7-f2b42d417c82.png">
 
