@@ -16,3 +16,152 @@ Transcript & slides are below. Please click this demo video to hear it with soun
 
 ![demo](https://user-images.githubusercontent.com/38410965/111723158-7c9b5480-8839-11eb-834a-4c7a0849980c.mp4)
 
+
+
+
+
+
+
+
+
+
+
+Steve Depp 
+462-55 
+         
+Goals 
+	✓	Colab 
+	✓	GPU
+	◦	Publish Jupyterbook on GitHub (tomorrow)
+
+ 
+
+Colab     
+Dislikes
+	•	A bit laggy
+Likes
+	•	Autocomplete
+	•	Hierarchical section headings
+	•	Github / Drive
+	•	GPU access
+   
+
+ GPU 
+
+CPU
+GPU
+Fully connected
+17 seconds
+14 seconds
+Convolutional
+377 seconds
+23 seconds
+    
+
+Steps  
+  
+Colab hooks up 
+
+	◦	Kaggle 
+	◦	Google drive
+
+Easy to load / explore data
+ 
+	◦	nulls & nans
+	◦	greys
+	◦	correlations
+
+Performance 
+
+	◦	structure
+	◦	accuracy
+
+Under the hood
+
+	◦	activations
+	◦	filters
+	◦	class activation heatmaps
+
+
+
+Steps    
+Hooked up & Loaded up
+	✓	Kaggle 
+	✓	Google docs
+
+
+
+
+Steps
+Looked at the data
+ 
+	✓	nulls & nans … none
+
+	✓	greys
+	⁃	light sneakers = 42.79 
+	⁃	dark coats = 98.04
+
+	✓	correlations
+	⁃	boots vs dresses (27%) and t-shirts (25%)
+	⁃	dresses vs sandals (17%) and sneakers (20%)
+	⁃	train = test
+
+
+
+
+
+Performance
+ 
+	✓	Structure 
+	✓	Accuracy 
+
+
+
+
+
+Steps
+ 
+Under the hood
+	✓	activations
+	✓	filters
+	✓	class activation heatmaps
+
+Shirt = 6
+
+Convolutional 2 activation
+
+Convolutional 1
+
+Convolutional 2
+
+
+T-shirt = 0
+
+Convolutional 2 activation
+
+Convolutional 1
+
+Convolutional 2
+
+
+
+
+
+
+
+
+
+
+Conclusion
+  
+Colab is a worth using
+	◦	Access to teams
+	◦	Access to GPUs 
+CNN > FC
+	◦	Both generalized
+	◦	CNN still climbing at 92%
+	◦	Worth it even on a CPU
+
+Under the hood
+	◦	Not much confusion except shirts (6)
+	◦	Can remove some filters
