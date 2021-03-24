@@ -26,8 +26,9 @@ Transcript & slides are below. Please click this demo video to hear it with soun
 
 
 
+#
 
-> hello.  thank you for taking a minute to listen to my demo video.  i was looking forward to this week’s video because it gives us an opportunity to …'
+> hello.  thank you for taking a minute to listen to my demo video.  i was looking forward to this week’s video because it gives us an opportunity to …
 
 **Steve Depp**   
 **462-55**   
@@ -48,7 +49,9 @@ Likes
 - Github / Drive
 - GPU access
    
-    '… to get experience with the speed of GPUs.'  
+#
+
+> … to get experience with the speed of GPUs.  
 
 GPU 
 
@@ -58,7 +61,7 @@ GPU
 | Convolutional   | 377 seconds | 23 seconds |
     
 
-    'this presentation will briefly touch upon getting hooked up to cloud computing to download data, to build models and to examine the performance of those models.'
+> this presentation will briefly touch upon getting hooked up to cloud computing to download data, to build models and to examine the performance of those models.
 
 **Steps**  
   
@@ -80,7 +83,7 @@ Under the hood
 - [x] filters
 - [x] class activation heatmaps
 
-    'here on top i am getting hooked up to my google drive and in the middle i’m getting hooked up to kaggle and down at the bottom i’m using kaggle to download the data.' 
+> here on top i am getting hooked up to my google drive and in the middle i’m getting hooked up to kaggle and down at the bottom i’m using kaggle to download the data.   
 
 **Steps**    
 
