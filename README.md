@@ -83,6 +83,8 @@ Under the hood
 - [x] filters
 - [x] class activation heatmaps
 
+#
+
 > here on top i am getting hooked up to my google drive and in the middle i’m getting hooked up to kaggle and down at the bottom i’m using kaggle to download the data.   
 
 **Steps**    
@@ -95,8 +97,9 @@ Hooked up & Loaded up:
 
 <img width="766" alt="Load dataset" src="https://user-images.githubusercontent.com/38410965/112354284-e9cc4100-8ca2-11eb-818e-6c42deffba1b.png">
 
+#
 
-    'a quick look at the data.  here in the middle i calculated the mean pixel values for the 10 labels. it shows that not all images are the same: sneaker images are lighter than the images of coats.  shirts and t-shirts are quite similar in their pixel values.  you can see that shirts have a mean pixel value of 85.01 and t-shirts have a mean pixel value of 82.77.   so, that’ll make sneakers and coats easier to distinguish and shirts and t-shirts more difficult to distinguish.  at the bottom i calculate the correlation between the image pixels.  some target images are less related than others. so for example the images of dresses are unrelated to the images of t-shirts, sandals, boots and sneakers.  so, this might make these images easier to classify for a fully connected model.  also the correlations between the train and the test sets are the same which leads me to expect good generalization between the train and the test sets.   so as for performance …'
+> a quick look at the data.  here in the middle i calculated the mean pixel values for the 10 labels. it shows that not all images are the same: sneaker images are lighter than the images of coats.  shirts and t-shirts are quite similar in their pixel values.  you can see that shirts have a mean pixel value of 85.01 and t-shirts have a mean pixel value of 82.77.   so, that’ll make sneakers and coats easier to distinguish and shirts and t-shirts more difficult to distinguish.  at the bottom i calculate the correlation between the image pixels.  some target images are less related than others. so for example the images of dresses are unrelated to the images of t-shirts, sandals, boots and sneakers.  so, this might make these images easier to classify for a fully connected model.  also the correlations between the train and the test sets are the same which leads me to expect good generalization between the train and the test sets.    
 
 
 **Steps**
@@ -122,7 +125,12 @@ Looked at the data
 
 <img width="803" alt="Table Mean correlations diff fro" src="https://user-images.githubusercontent.com/38410965/112354104-bee1ed00-8ca2-11eb-98d4-09a902c33ea4.png">
 
-Performance
+#
+
+> so as for performance … here are the two models: this is a fully connected and a convolutional model.  the fully connected has one hidden layer and the convolutional has three.  they have roughly the same number of parameters.  both do generalize quite well: the fully connected tops out at around 89% and the convolutional is still rising after 10 epochs at 92%.    it was evident that both models were getting confused between shirts and t-shirts and i’ve kind of itemized that here.  
+
+
+**Performance**
 
 - [x] Structure 
 - [x] Accuracy 
