@@ -141,8 +141,8 @@ Looked at the data
 
 #
 
-> in order to sort of look at that in a little more detail i looked at the activations and the gradients for shirts and t-shirts.  so here is a shirt with label number 6 and one of its activations which is kinda murky.  here are the convolutional layer 1 and 2 for this image.   here’s the t-shirt and here’s its activation which is a lot more distinct. and then if you look here again, the convolution layer 1 and 2 are more distinct as well.  so its probably going to classify t-shirt better.  here i take the gradient.  it’s the mean gradient to weight the activations.  and it shows the edges being formed in the activations here and here.  this edge is actually more distinct and related to this t-shirt, this feature of this t-shirt whereas this is not really a shirt feature.  so you can see why the t-shirt might be easier to identify.   finally at the bottom here i look at the layer filters, and it’s interesting.  it’s pretty.  but one of the big things i gather from this, aside from the fact that the first layer has you know horizontal and vertical lines and this has a little bit more complex features in the second convolutional layer, the thing i take away from this is that there’s a lot of noisy filters here.  this isn’t all the filters.  this is just a percentage of the filters, but this percentage of filters is quite noisy which means that we can probably get rid of some of these filters and still have the same level of performance.   
-
+> in order to sort of look at that in a little more detail i looked at the activations and the gradients for shirts and t-shirts.  
+ 
 **Steps**
  
 Under the hood
@@ -150,6 +150,10 @@ Under the hood
 - [x] filters
 - [x] class activation heatmaps
 
+# 
+
+> so here is a shirt with label number 6 and one of its activations which is kinda murky.  here are the convolutional layer 1 and 2 for this image.   
+ 
 Shirt = 6
 
 ![Pasted Graphic 18](https://user-images.githubusercontent.com/38410965/112353921-98bc4d00-8ca2-11eb-8b75-b670e84de64b.png)
@@ -166,6 +170,11 @@ Convolutional 2
 
 <img width="926" alt="Pasted Graphic 20" src="https://user-images.githubusercontent.com/38410965/112353687-5eeb4680-8ca2-11eb-9292-b65e9367a531.png">
 
+#
+
+> here’s the t-shirt and here’s its activation which is a lot more distinct. and then if you look here again, the convolution layer 1 and 2 are more distinct as well.  so its probably going to classify t-shirt better.  
+
+
 T-shirt = 0
 
 ![10](https://user-images.githubusercontent.com/38410965/112353668-572ba200-8ca2-11eb-94a2-1c637460d680.png)
@@ -181,6 +190,10 @@ Convolutional 1
 Convolutional 2
 
 ![Pasted Graphic 23](https://user-images.githubusercontent.com/38410965/112353459-2186b900-8ca2-11eb-9d72-3661a274b0fc.png)
+
+#
+
+> here i take the gradient.  it’s the mean gradient to weight the activations.  and it shows the edges being formed in the activations here and here.  this edge is actually more distinct and related to this t-shirt, this feature of this t-shirt whereas this is not really a shirt feature.  so you can see why the t-shirt might be easier to identify.   finally at the bottom here i look at the layer filters, and it’s interesting.  it’s pretty.  but one of the big things i gather from this, aside from the fact that the first layer has you know horizontal and vertical lines and this has a little bit more complex features in the second convolutional layer, the thing i take away from this is that there’s a lot of noisy filters here.  this isn’t all the filters.  this is just a percentage of the filters, but this percentage of filters is quite noisy which means that we can probably get rid of some of these filters and still have the same level of performance.   
 
 
 <img width="762" alt="T-shirt = 0" src="https://user-images.githubusercontent.com/38410965/112353378-12077000-8ca2-11eb-92cb-cafa7265d76e.png">
