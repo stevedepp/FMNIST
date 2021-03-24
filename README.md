@@ -27,7 +27,8 @@ Transcript & slides are below. Please click this demo video to hear it with soun
 
 
 
-    >'hello.  thank you for taking a minute to listen to my demo video.  i was looking forward to this week’s video because it gives us an opportunity to …'
+    >'hello.  
+    >thank you for taking a minute to listen to my demo video.  i was looking forward to this week’s video because it gives us an opportunity to …'
 
 **Steve Depp**   
 **462-55**   
