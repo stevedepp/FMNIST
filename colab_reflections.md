@@ -43,31 +43,32 @@ I took a few notes on Colab this week.  I have never used it before and wanted t
 - Colab is a little laggy.  
 - I like how you can find older versions time stamps and see comparisons between those versions. This already saved me an hour.  
 - I am not entirely comfortable with saving everything in Google Drive, but this is my first time really doing that.  
-- I love collapsible section headings.  I had favored RawNBConvert over Markdown in Jypyter, but in Colab I am the opposite of that.  
-- I was able to use a GPU which sped up the CNN but slowed down my RForest.  That all of use can use the same underlying power enables better collaboration. I could not get TPU running, but that may just be me.  
-- I am somewhat worried about having dependency on internet connection for my compute.  I was planning to build my own GPU equipped computer, but after using e.g. Colab I am not so sure I will do that now.
+- I love collapsible section headings.  I had favored RawNBConvert over Markdown in Jypyter, but in Colab I am the opposite of that.    
+- I was able to use a GPU which sped up the CNN but slowed down my RForest.  That all of use can use the same underlying power enables better collaboration. I could not get TPU running, but that may just be me.    
+- I am somewhat worried about having dependency on internet connection for my compute.  I was planning to build my own GPU equipped computer, but after using e.g. Colab I am not so sure I will do that now.  
 
 
 **What are some key differences between biological and machine vision?**   
 
 After reading a bit on computer and biological vision I might take a different perspective on this question.
 
-First, I read through an article that highlights how the fields of biological and computer vision separated shortly after Marr (1982) attempted to unify them around similar computational problems.  Experimental tools limited the study of biological vision and computing power limited the study of machine vision. Medathati et al. (2016) suggest that time is ripe for common ground: limits are no longer in place and so advancements and inspiration are possible on both playing fields. 
+First, I read through an article that highlights how the fields of biological and computer vision separated shortly after Marr (1982) attempted to unify them around similar computational problems.  Experimental tools limited the study of biological vision and computing power limited the study of machine vision. Medathati et al. (2016) suggest that time is ripe for common ground: limits are no longer in place and so advancements and inspiration are possible on both playing fields.   
 
-The diversion I want to address is at minute 39:40 in BladeRunner2049 when Jared Leto as a blind Niander Wallace says "Now let's have a look at you."  This is after he's physically inspected the new, but still infertile, female replicant.  His subsequent actions make it clear that the several drone-like eyes that enter the room are not visual tools alone.  They enable him to sense other dimensions, notably some form of visual density measure, akin to X-ray or Ultrasound.  This is how he determines the replicants infertility.
+The diversion I want to address is at minute 39:40 in BladeRunner2049 when Jared Leto as a blind Niander Wallace says "Now let's have a look at you."  This is after he's physically inspected the new, but still infertile, female replicant.  His subsequent actions make it clear that the several drone-like eyes that enter the room are not visual tools alone.  They enable him to sense other dimensions, notably some form of visual density measure, akin to X-ray or Ultrasound.  This is how he determines the replicants infertility.  
 
-It would be comforting to grant a blind human the ability to see, much like the rest of us.  This would offer common experiences, but why stop there?  
+It would be comforting to grant a blind human the ability to see, much like the rest of us.  This would offer common experiences, but why stop there?    
 
-- Humans have more than 5 senses: pain, temperature, balance, the passing of time.
-- Our senses work together to provide a mosaic of abstract cognition.
-- We sense vision with our brain as much as with our eyes (hallucinations).
-- Animals can sense:
-UV and polarized light (Mantis Shrimp and Octopus)
-magnetic fields (pigeons, sea turtles and other migrating aquatics such as Salmon)
-electricity of other animals' muscle contraction (sharks and platypus)
-air and water pressure (Weatherfish)
-3 dimensional sight via echolocation (dolphin, porpoise, bat)
-infrared and radiation detection (pit vipers)
+- Humans have more than 5 senses: pain, temperature, balance, the passing of time.  
+- Our senses work together to provide a mosaic of abstract cognition.  
+- We sense vision with our brain as much as with our eyes (hallucinations).  
+- Animals can sense:  
+  - UV and polarized light (Mantis Shrimp and Octopus)  
+  - magnetic fields (pigeons, sea turtles and other migrating aquatics such as Salmon)  
+  - electricity of other animals' muscle contraction (sharks and platypus)  
+  - air and water pressure (Weatherfish)  
+  - 3 dimensional sight via echolocation (dolphin, porpoise, bat)  
+  - infrared and radiation detection (pit vipers)    
+
 If these senses work together, I don't think we should paint a target on biological sight when this clearly isn't what we are after when we represent how we perceive our surroundings.   
 
 Marr, D. (1982). Vision: A computational investigation into the human representation and processing of visual information, henry holt and co. Inc., New York, NY, 2(4.2).
