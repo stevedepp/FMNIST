@@ -1,6 +1,12 @@
 # [FMNIST Colab notebook](https://github.com/stevedepp/FMNIST/blob/master/FMNIST_Depp.ipynb)
 
+A demo of development & production environments implemented via gcloud CLI
+
 the colab notebook from this demo video is included in this repo's code library.
+
+
+
+Transcript & slides are below. Please click this demo video to hear it with sound.
 
 if you would like to hear the audo associated with the video below, click on the video.
 
