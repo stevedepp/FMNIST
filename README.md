@@ -26,6 +26,9 @@ Transcript & slides are below. Please click this demo video to hear it with soun
 
 
 
+
+         'hi my name is bob'
+
 **Steve Depp**   
 **462-55**   
 
