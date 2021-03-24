@@ -26,100 +26,86 @@ Transcript & slides are below. Please click this demo video to hear it with soun
 
 
 
-Steve Depp 
-462-55 
-         
-Goals 
-	✓	Colab 
-	✓	GPU
-	◦	Publish Jupyterbook on GitHub (tomorrow)
+**Steve Depp**   
+**462-55**   
 
- 
+**Goals**  
+- [x] Colab  
+- [x] GPU  
+- [ ] Publish Jupyterbook on GitHub (tomorrow)  
 
-Colab     
-Dislikes
-	•	A bit laggy
+
+**Colab**  
+Dislikes  
+- A bit laggy   
 Likes
-	•	Autocomplete
-	•	Hierarchical section headings
-	•	Github / Drive
-	•	GPU access
+- Autocomplete
+- Hierarchical section headings
+- Github / Drive
+- GPU access
    
 
- GPU 
 
-CPU
-GPU
-Fully connected
-17 seconds
-14 seconds
-Convolutional
-377 seconds
-23 seconds
+GPU 
+
+|                 | CPU         | GPU        |
+| :---            | :---        | :---       | 
+| Fully connected | 17 seconds  | 14 seconds |
+| Convolutional   | 377 seconds | 23 seconds |
     
 
-Steps  
+**Steps**  
   
-Colab hooks up 
+Colab hooks up:  
+- [x] Kaggle
+- [x] Google drive
 
-	◦	Kaggle 
-	◦	Google drive
+Easy to load / explore data:  
+- [x] nulls & nans
+- [x] greys
+- [x] correlations
 
-Easy to load / explore data
- 
-	◦	nulls & nans
-	◦	greys
-	◦	correlations
-
-Performance 
-
-	◦	structure
-	◦	accuracy
+Performance  
+- [x] structure
+- [x] accuracy
 
 Under the hood
-
-	◦	activations
-	◦	filters
-	◦	class activation heatmaps
-
-
-
-Steps    
-Hooked up & Loaded up
-	✓	Kaggle 
-	✓	Google docs
+- [x] activations
+- [x] filters
+- [x] class activation heatmaps
 
 
 
+**Steps**    
 
-Steps
+Hooked up & Loaded up:  
+- [x] Kaggle
+- [x] Google docs
+
+
+**Steps**
+
 Looked at the data
- 
-	✓	nulls & nans … none
 
-	✓	greys
-	⁃	light sneakers = 42.79 
-	⁃	dark coats = 98.04
+- [x] nulls & nans … none
 
-	✓	correlations
-	⁃	boots vs dresses (27%) and t-shirts (25%)
-	⁃	dresses vs sandals (17%) and sneakers (20%)
-	⁃	train = test
+- [x] greys
+  - light sneakers = 42.79 
+  - dark coats = 98.04
 
-
-
+- [x] correlations
+  - boots vs dresses (27%) and t-shirts (25%)
+  - dresses vs sandals (17%) and sneakers (20%)
+  - train = test
 
 
 Performance
- 
-	✓	Structure 
-	✓	Accuracy 
+
+- [x] Structure 
+- [x] Accuracy 
 
 
-
-
-
-Steps
+**Steps**
  
 Under the hood
 	✓	activations
