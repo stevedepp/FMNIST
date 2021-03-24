@@ -4,7 +4,7 @@ CV and other AI subsets are well served in the cloud in similar ways:
 
 Variable compute which addresses    
 •	continuous scalability: speed and dimension when you need it.  
-•	near limitless storage if you are creative   
+  •	near limitless storage if you are creative   
 •	variable configure: your solution running on different hardware (hardware you don't have access to but your customer does).   
 •	serverless tech / stateless application servers which enable instant access to different languages and configurations that afford e.g. concurrency, parallelization, scale.   
 
