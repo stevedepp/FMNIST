@@ -12,7 +12,7 @@ A demo of a Colab [notebook's](https://github.com/stevedepp/FMNIST/blob/master/F
 
 The colab notebook from this demo video is included in this repo's code library [here](https://github.com/stevedepp/FMNIST/blob/master/FMNIST_Depp.ipynb).
 
-Some general thoughts on Colab [here]((https://github.com/stevedepp/FMNIST/blob/master/colab_reflections.md)
+Some general thoughts on Colab [here](https://github.com/stevedepp/FMNIST/blob/master/colab_reflections.md)
 
 Transcript & slides are below. Please click this demo video to hear it with sound.
 
