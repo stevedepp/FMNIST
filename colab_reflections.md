@@ -3,32 +3,32 @@
 CV and other AI subsets are well served in the cloud in similar ways:
 
 Variable compute which addresses    
-•	continuous scalability: speed and dimension when you need it.  
-  •	near limitless storage if you are creative   
-•	variable configure: your solution running on different hardware (hardware you don't have access to but your customer does).   
-•	serverless tech / stateless application servers which enable instant access to different languages and configurations that afford e.g. concurrency, parallelization, scale.   
+- continuous scalability: speed and dimension when you need it.  
+- near limitless storage if you are creative   
+- variable configure: your solution running on different hardware (hardware you don't have access to but your customer does).   
+- serverless tech / stateless application servers which enable instant access to different languages and configurations that afford e.g. concurrency, parallelization, scale.   
 
 All these might solve problems which are otherwise insolvable on a local platform and allowÂ tinkering with hardware configurations, much as one might tinker with lines of code.  We gain access to APIs for computer vision:   
-•	https://aws.amazon.com/rekognition/.   
-•	https://www.ibm.com/cloud/watson-visual-recognition   
-•	https://cloud.google.com/vision/   
-•	https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/   
-•	https://azure.microsoft.com/en-us/services/cognitive-services/face/   
-•	https://azure.microsoft.com/en-us/services/media-services/video-indexer/   
+- https://aws.amazon.com/rekognition/.   
+- https://www.ibm.com/cloud/watson-visual-recognition   
+- https://cloud.google.com/vision/   
+- https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/   
+- https://azure.microsoft.com/en-us/services/cognitive-services/face/   
+- https://azure.microsoft.com/en-us/services/media-services/video-indexer/   
 
 Access is less plan driven than event driven. Analogies:
-•	cloud vs centralized server vs a desktop GPU   
-•	uber vs. a bus vs. a taxi   
-•	bitcoin vs. automated settlements vs. traditional payments   
-•	Amazon Marketplace vs. eBay vs. Walmart   
+- cloud vs centralized server vs a desktop GPU   
+- uber vs. a bus vs. a taxi   
+- bitcoin vs. automated settlements vs. traditional payments   
+- Amazon Marketplace vs. eBay vs. Walmart   
 
 **How could colab notebooks and/or Jupyter Books be used to exchange ideas or build research portfolios?**
 
 My principal view on this is that exchanging ideas is easier when everyone is in the same environment.  
 
-• The cloud environment of Colab serves as a control device for independent members of a team.  
-• Sharing notebooks and publish to Github is an advantage for team work and version control.   
-• Any team member more comfortable with Jupyter on their local computer can save it down and use it there.
+- The cloud environment of Colab serves as a control device for independent members of a team.  
+- Sharing notebooks and publish to Github is an advantage for team work and version control.   
+- Any team member more comfortable with Jupyter on their local computer can save it down and use it there.
 
 So there is a big radius of comfort.
 
