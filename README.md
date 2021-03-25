@@ -1,4 +1,4 @@
-# [FMNIST Colab notebook](https://github.com/stevedepp/FMNIST/blob/master/FMNIST_Depp.ipynb)
+### FMNIST Classification
 
 Please click the demo video below to hear it with sound.  Transcript & slides are on this page just below the video. 
 
