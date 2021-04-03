@@ -1,6 +1,6 @@
 ## FMNIST Classification
 
-Please click the demo video below to hear it with sound.  Transcript & slides are on this page just below the video. 
+Transcript & slides are below. Please click this demo video to hear it with sound.
 
 A demo of a Colab [notebook's](https://github.com/stevedepp/FMNIST/blob/master/FMNIST_Depp.ipynb) speed and ease of use in building the basics of computer vision classification: 
 - [x] retrieving dependencies.  
