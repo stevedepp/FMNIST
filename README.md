@@ -1,4 +1,4 @@
-### FMNIST Classification
+## FMNIST Classification
 
 Please click the demo video below to hear it with sound.  Transcript & slides are on this page just below the video. 
 
