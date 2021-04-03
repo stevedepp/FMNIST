@@ -1,4 +1,4 @@
-## FMNIST Classification
+## FMNIST classification with deconvolutional layers
 
 Transcript & slides are below. Please click this demo video to hear it with sound.
 
