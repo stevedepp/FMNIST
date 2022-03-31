@@ -16,7 +16,7 @@ Some general thoughts on cloud-based solutions, Colab and computer vision are fo
 
 You can read the transcript & slides below or click this 4 min 44 sec demo video to hear it with sound.
 
-![demo](https://user-images.githubusercontent.com/38410965/111723158-7c9b5480-8839-11eb-834a-4c7a0849980c.mp4)
+![demo](https://user-images.githubusercontent.com/38410965/161108851-6779cfb0-0277-4028-8b65-97cb1fb5aee7.mp4)
 
 
 
