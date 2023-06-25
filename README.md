@@ -16,7 +16,7 @@ Some general thoughts on cloud-based solutions, Colab and computer vision are fo
 
 You can read the transcript & slides below or unmute this 4 min 44 sec demo [video](https://github.com/stevedepp/FMNIST/blob/master/DEPP_462_55_DV_1.mp4) to hear it with sound.
 
-<video src="https://github.com/stevedepp/FMNIST_classification/blob/DEPP_462_55_DV_1.mp4" autoplay controls loop muted style="max-width: 730px;">
+<video src="https://github.com/stevedepp/FMNIST/blob/master/DEPP_462_55_DV_1.mp4" autoplay controls loop muted style="max-width: 730px;">
 </video>
 
 
