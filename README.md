@@ -14,27 +14,9 @@ The colab notebook from this demo video is included in this repo's code library 
 
 Some general thoughts on cloud-based solutions, Colab and computer vision are found [here](https://github.com/stevedepp/reflections/blob/main/cloud_colab_cv.md)
 
-You can read the transcript & slides below or unmute this 4 min 44 sec demo [video](https://github.com/stevedepp/FMNIST/blob/master/DEPP_462_55_DV_1.mp4) to hear it with sound.
-
+You can read the transcript & slides below or unmute this 4 min 44 sec demo to hear it with sound.
 
 https://github.com/stevedepp/FMNIST_classification/assets/38410965/e7d78fd6-e0cd-46e7-bda2-12c4a25bc1ec
-
-
-<video src="https://github.com/stevedepp/FMNIST_classification/blob/DEPP_462_55_DV_1.mp4" autoplay controls loop muted style="max-width: 730px;">
-</video>
-
-
-![demo](https://github.com/stevedepp/FMNIST_classification/blob/DEPP_462_55_DV_1.mp4)
-
-
-
-
-
-
-
-
-
-
 
 #
 
